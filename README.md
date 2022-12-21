@@ -1,4 +1,4 @@
-### Hi im Khaled, let my introduce my self 👋!
+### Hi, let my introduce my self 👋!
 
 - 🌱 __Languages__: PHP, JavaScript, Python, HTML, CSS
 - 📅 Coding since __2018__
